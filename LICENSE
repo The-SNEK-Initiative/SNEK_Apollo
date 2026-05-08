@@ -1,3 +1,112 @@
+[SOFTWARE_NAME] SNEK Common Source License 2.0
+(S-CSL-2.0)
+
+Stewarded by The SNEK Initiative
+
+SPDX-License-Identifier: LicenseRef-SNEK-CSL-2.0
+
+Copyright (c) [CURRENT_YEAR]-present [AUTHOR]
+
+Licensed under the SNEK Common Source License 2.0 ("License").
+
+1. Definitions
+
+"Software" means the copyrighted work distributed under this
+License, including source code, object code, binaries, build
+artifacts, assets, configuration, documentation, examples, and
+associated files.
+
+"Derivative Works" means any work based upon, derived from,
+modifying, adapting, translating, extending, incorporating, or
+otherwise using all or part of the Software, excluding works that
+remain separable and merely interface with the Software through
+standard APIs or protocols.
+
+"Commercialize" means to directly or indirectly derive monetary
+compensation, commercial advantage, subscription revenue,
+licensing revenue, usage fees, hosting fees, or other financial
+benefit from the Software or Derivative Works.
+
+"Distribute" means to provide, publish, transfer, sublicense,
+share, make available, or otherwise convey the Software or
+Derivative Works to any third party in source or binary form.
+
+"You" means any individual or legal entity exercising permissions
+granted under this License.
+
+"The SNEK Initiative" means the stewarding organization responsible
+for publication and maintenance of this License text.
+
+2. Grant of Rights
+
+Subject to the terms and conditions of this License, permission is
+hereby granted, free of charge, to You to:
+
+a. Use the Software;
+b. Copy the Software;
+c. Modify the Software;
+d. Create Derivative Works;
+e. Distribute the Software and Derivative Works;
+
+provided that all such activities comply fully with this License.
+
+No rights are granted except those expressly stated herein.
+
+3. Non-Commercialization Restriction
+
+You may not Commercialize the Software or any Derivative Works.
+
+Prohibited conduct includes, but is not limited to:
+
+a. Selling copies of the Software;
+b. Charging license fees for the Software;
+c. Charging for access to or usage of the Software;
+d. Offering the Software as part of a paid product,
+   subscription, platform, or bundle;
+e. Providing the Software as a paid hosted service,
+   managed service, or Software-as-a-Service (SaaS);
+f. Relicensing the Software or Derivative Works under
+   proprietary or commercial terms;
+g. Restricting recipient rights granted under this License
+   in exchange for payment or commercial consideration.
+
+For clarity, internal business use of the Software that does not
+involve Commercialization of the Software itself is permitted.
+
+4. Redistribution Conditions
+
+You may Distribute the Software or Derivative Works only if:
+
+a. Distribution is free of charge;
+b. A complete copy of this License is included;
+c. All copyright, attribution, and license notices are retained;
+d. Recipients receive the same rights granted under this License;
+e. Derivative Works are licensed exclusively under this License.
+
+You may not impose additional legal or technical restrictions that
+limit the rights granted under this License.
+
+5. Attribution
+
+You must retain all existing copyright notices, attribution
+notices, trademark notices, and license notices contained in the
+Software.
+
+You may add notices identifying Your own modifications or
+contributions, provided such notices do not imply endorsement by
+the original authors or The SNEK Initiative.
+
+6. Paid Services Exception
+
+Nothing in this License prohibits charging fees for professional
+services related to the Software, including consulting, support,
+training, auditing, customization, integration, deployment,
+maintenance, or infrastructure setup, provided that:
+
+a. No fee is charged for rights to the Software itself;
+b. No fee is charged for access to the Software itself;
+c. Recipients retain all rights granted under this License.
+
 7. No Trademark Rights
 
 This License does not grant permission to use the names,
