@@ -293,7 +293,7 @@ class SnekApolloGUI(QMainWindow):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
 
-    url = "https://cdn.donmai.us/original/78/1d/781da2414b299ccc759002eb545df2dd.mp4"
+    url = "https://samplelib.com/mp4/sample-10s.mp4"
     if len(sys.argv) > 1:
         url = sys.argv[1]
 
